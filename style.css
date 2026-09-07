@@ -29,7 +29,7 @@ body {
     box-shadow: 1px 1px 20px 1px #0000005d;
     border-radius: 10px; 
     padding: 2em;
-    width: 30%;
+
 }
 
 form {
@@ -55,6 +55,7 @@ input::placeholder {
 form div {
     display: flex;
     justify-content: space-between;
+    gap: 2em;
     margin-top: 1em;
 }
 
